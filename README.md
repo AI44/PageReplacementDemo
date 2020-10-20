@@ -3,4 +3,6 @@
 
 1.测试demo在demo文件夹下。
 
-2.运行环境：.NET Framework 4.6.1。
+2.运行环境要求：.NET Framework 4.6.1及以上。
+
+![截图](/demo/20201021013021.png)

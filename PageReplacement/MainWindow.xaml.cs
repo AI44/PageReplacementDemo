@@ -63,7 +63,7 @@ namespace PageReplacement
         {
             if (arr != null && arr.Length > 0)
             {
-                return "置换次数 : " + Utils.GetChangeNum(arr) + "/" + arr.Length;
+                return "置换次数 : " + Utils.GetChangeNum(arr);
             }
             else
             {
