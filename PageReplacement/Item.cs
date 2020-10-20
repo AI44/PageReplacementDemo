@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace PageReplacement
+﻿namespace PageReplacement
 {
     public class Item
     {

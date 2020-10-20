@@ -19,7 +19,7 @@ namespace PageReplacement
             mCapacity = capacity;
         }
 
-       //返回被删除的值
+        //返回被删除的值
         public V Put(K key, V value)
         {
             if (mDictionary.ContainsKey(key))
